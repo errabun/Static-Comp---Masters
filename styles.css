@@ -18,14 +18,15 @@
   }
 
   img {
-    width: 123px;
+    width: 133px;
     height: 81px;
   }
 
   .card {
-    margin: 10px;
+    margin: 5px;
     border: 1px solid #c0c0c0;
     background-color: white;
+    box-shadow: 0 0 5px grey;
   }
 
   .top-head,
@@ -35,7 +36,12 @@
     align-items: baseline;
   }
 
-  .top-head {
+  .bottom-head {
+    justify-content: flex-start;
+  }
+
+  .top-head,
+  h3 {
     justify-content: flex-end;
   }
 
@@ -70,6 +76,37 @@
   }
 
   .web-container {
-    margin: 5px; 
+    margin: 5px;
   }
+
+  .num {
+    color: #54C5FD;
+  }
+}
+
+@media screen and (min-width: 768px) {
+
+  img {
+    width: 190px;
+    height: 120px;
+  }
+
+  .icon {
+    height: 15px;
+    width: 15px;
+  }
+
+  .bottom-head {
+    justify-content: space-around;
+  }
+
+  .grid {
+    justify-content: center;
+    grid-template-columns: 200px 200px 200px;
+    grid-row: 0;
+    grid-column-gap: 0;
+    grid-row-gap: 0;
+  }
+
+
 }
