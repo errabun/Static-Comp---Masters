@@ -9,7 +9,7 @@ This small project was to create a comp of an given page in a 4 day span.  It wa
 This was the comp that we were required to recreate:
 ![static-comp-challenge-2](https://user-images.githubusercontent.com/73191225/114324648-833f8380-9ae8-11eb-973e-6355fe9c0f06.jpg)
 This is my recreation of the comp with some different data:
-![masters design](<img width="994" alt="Screen Shot 2021-04-11 at 4 56 36 PM" src="https://user-images.githubusercontent.com/73191225/114324628-673be200-9ae8-11eb-9818-1c6b8de64929.png">
+(<img width="994" alt="Screen Shot 2021-04-11 at 4 56 36 PM" src="https://user-images.githubusercontent.com/73191225/114324628-673be200-9ae8-11eb-9818-1c6b8de64929.png">
 )
 ### Technologies Implemented:
 - HTML
